@@ -1,4 +1,5 @@
-/*1.	Consider a telephone book database of N clients. Make use of a hash table implementation to  quickly look up client‘s telephone number. Make use of two collision handling techniques and compare them using number of comparisons required to find a set of telephone numbers*/
+/*1.Consider a telephone book database of N clients. Make use of a hash table implementation to  quickly look up client‘s telephone number. 
+Make use of two collision handling techniques and compare them using number of comparisons required to find a set of telephone numbers*/
 #include<iostream>
 #include<string.h>
 using namespace std;
